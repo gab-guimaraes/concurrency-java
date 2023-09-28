@@ -1,4 +1,4 @@
-package org.concurrency.player;
+package org.concurrency.music_player;
 
 public class Song {
     private String title;

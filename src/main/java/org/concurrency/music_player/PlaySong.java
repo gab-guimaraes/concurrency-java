@@ -1,4 +1,4 @@
-package org.concurrency.player;
+package org.concurrency.music_player;
 
 public class PlaySong extends Thread {
     private final Song song;

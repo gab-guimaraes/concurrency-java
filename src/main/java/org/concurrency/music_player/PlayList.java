@@ -1,4 +1,4 @@
-package org.concurrency.player;
+package org.concurrency.music_player;
 
 import java.util.ArrayList;
 
