@@ -15,5 +15,4 @@ public class Main {
         threadList.add(new PoliceThread());
         threadList.forEach(Thread::start);
     }
-
 }
